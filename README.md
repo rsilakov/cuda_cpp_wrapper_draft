@@ -1,2 +1,5 @@
-# cuda_cpp_wrapper_draft
-C++ wrapper for cuda functions
+# C++ wrapper for cuda functions
+
+road map:
+1) wrapper for cudaMalloc + cudaMemcpy
+2)
